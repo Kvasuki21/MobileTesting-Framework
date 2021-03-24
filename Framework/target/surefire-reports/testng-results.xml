@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="72113" started-at="2021-03-24T09:40:43Z" finished-at="2021-03-24T09:41:56Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="72113" started-at="2021-03-24T09:40:43Z" finished-at="2021-03-24T09:41:56Z">
+      <class name="appiumFramework.Demo">
+        <test-method status="PASS" signature="bt()[pri:0, instance:appiumFramework.Demo@670002]" name="bt" is-config="true" duration-ms="3048" started-at="2021-03-24T15:10:43Z" finished-at="2021-03-24T15:10:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:appiumFramework.Demo@670002]" name="test4" duration-ms="69036" started-at="2021-03-24T15:10:46Z" finished-at="2021-03-24T15:11:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+      </class> <!-- appiumFramework.Demo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
